@@ -5,7 +5,7 @@ REST api in deno using mongo
 ## Steps:
 
 1. Clone the repo
-2. > Run command:
+2. Run command:
    - \$ deno run --unstable --allow-read --allow-write --allow-net --allow-plugin main.ts
 
 ## Library Used:
